@@ -55,12 +55,12 @@ let colors_name = "silentash"
 "*Comment
     hi Comment          guifg=#b3b3b3               gui=none
 "*Constant
-    hi Constant         guifg=#7f4555 guibg=#dbd6d6 gui=none
-    hi String           guifg=#7f4555 guibg=#dbd6d6 gui=none
-    hi Character        guifg=#7f4555 guibg=#dbd6d6 gui=none
-    hi Number           guifg=#7f4555 guibg=#dbd6d6 gui=none
-    hi Boolean          guifg=#7f4555 guibg=#dbd6d6 gui=none
-    hi Float            guifg=#7f4555 guibg=#dbd6d6 gui=none
+    hi Constant         guifg=#7f4555 guibg=#dcd6d6 gui=none
+    hi String           guifg=#7f4555 guibg=#dcd6d6 gui=none
+    hi Character        guifg=#7f4555 guibg=#dcd6d6 gui=none
+    hi Number           guifg=#7f4555 guibg=#dcd6d6 gui=none
+    hi Boolean          guifg=#7f4555 guibg=#dcd6d6 gui=none
+    hi Float            guifg=#7f4555 guibg=#dcd6d6 gui=none
 "*Identifier
     hi Identifier       guifg=#6a6a40 guibg=#d8d8d2 gui=none
     hi Function         guifg=#6a6a40 guibg=#d8d8d2 gui=none
@@ -73,11 +73,11 @@ let colors_name = "silentash"
     hi Keyword          guifg=#035267 guibg=#d6dad6 gui=none
     hi Exception        guifg=#305392 guibg=#d8d8da gui=none
 "*PreProc
-    hi PreProc          guifg=#6a6760 guibg=#dcd8da gui=none
-    hi Include          guifg=#6a6760 guibg=#dcd8da gui=none
-    hi Define           guifg=#6a6760 guibg=#dcd8da gui=none
-    hi Macro            guifg=#6a6760 guibg=#dcd8da gui=none
-    hi PreCondit        guifg=#6a6760 guibg=#dcd8da gui=none
+    hi PreProc          guifg=#8c608c guibg=#dfd8df gui=none
+    hi Include          guifg=#8c608c guibg=#dfd8df gui=none
+    hi Define           guifg=#8c608c guibg=#dfd8df gui=none
+    hi Macro            guifg=#8c608c guibg=#dfd8df gui=none
+    hi PreCondit        guifg=#8c608c guibg=#dfd8df gui=none
 "*Type
     hi Type             guifg=#606e60 guibg=#d9dad9 gui=none
     hi StorageClass     guifg=#606e60 guibg=#d9dad9 gui=none
