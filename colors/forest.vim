@@ -1,7 +1,7 @@
 " --------------------------------------------------
 " Forest
 " Maintainer: Masayuki Fukada
-" Last Change:2013/03/18 15:32:16 .
+" Last Change:2015/02/01 00:00:00 .
 " --------------------------------------------------
 set background=light
 hi clear
@@ -27,7 +27,7 @@ let colors_name = "forest"
     hi StatusLine       guifg=#000000               gui=none
     hi StatusLineNC     guifg=#000000               gui=none
     hi VertSplit        guifg=#ffffff guibg=#004030 gui=none
-    hi Folded           guifg=#dd0055 guibg=#ff9999 gui=none
+    hi Folded           guifg=#00aa33 guibg=#cceedd gui=none
     "hi FoldedColumn     guifg=#000000 guibg=#ee9999 gui=none
     hi Visual           guifg=#0099aa guibg=#c8ffea gui=none
     hi Title            guifg=#000000               gui=none

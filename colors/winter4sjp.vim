@@ -8,7 +8,7 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let colors_name = "winterfog"
+let colors_name = "winter4sjp"
 " --------------------------------------------------
 " General colors
 "Base
@@ -27,12 +27,12 @@ let colors_name = "winterfog"
     hi StatusLine       guifg=#000000               gui=none
     hi StatusLineNC     guifg=#000000               gui=none
     hi VertSplit        guifg=#7799cc guibg=#d7dfea gui=none
-    hi Folded           guifg=#dd0055 guibg=#ff9999 gui=none
+    hi Folded           guifg=#0000aa guibg=#ccccdd gui=none
     "hi FoldedColumn     guifg=#000000 guibg=#ee9999 gui=none
     hi Visual           guifg=#0000ff guibg=#e8eaff gui=none
     hi Title            guifg=#000000               gui=none
     hi SpecialKey       guifg=#cfc8ce               gui=none
-    hi MatchParen                     guibg=#efaaff gui=underline
+    hi MatchParen                     guibg=#42c0f5 gui=underline
     hi ModeMsg          guifg=#7733ff guibg=#fff8fe gui=none
 "Pmenu
     hi Pmenu            guifg=#000000               gui=none

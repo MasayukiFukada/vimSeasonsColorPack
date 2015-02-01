@@ -1,14 +1,14 @@
 " --------------------------------------------------
-" Spring of 4 Seasons of Japan
+" Silent Ash
 " Maintainer: Masayuki Fukada
-" Last Change:2013/03/14 09:08:38 .
+" Last Change:2015/02/01 00:00:00 .
 " --------------------------------------------------
 set background=light
 hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let colors_name = "spring4sjp"
+let colors_name = "silentash"
 " --------------------------------------------------
 " General colors
 "Base
@@ -62,8 +62,8 @@ let colors_name = "spring4sjp"
     hi Boolean          guifg=#7f4555 guibg=#dbd6d6 gui=none
     hi Float            guifg=#7f4555 guibg=#dbd6d6 gui=none
 "*Identifier
-    hi Identifier       guifg=#6a6760               gui=none
-    hi Function         guifg=#6a6760               gui=none
+    hi Identifier       guifg=#6a6a40 guibg=#d8d8d2 gui=none
+    hi Function         guifg=#6a6a40 guibg=#d8d8d2 gui=none
 "*Statement
     hi Statement        guifg=#305392 guibg=#d6d6da gui=none
     hi Conditional      guifg=#305392 guibg=#d6d6da gui=none
