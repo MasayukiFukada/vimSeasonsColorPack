@@ -16,7 +16,7 @@ let colors_name = "silentash"
     hi LineNr           guifg=#6a6760 guibg=#cbcac2 gui=none
     hi NonText          guifg=#6a6760 guibg=#dcd8da gui=none
     hi Search           guifg=#7f7f50 guibg=#e0e0ca gui=bold,underline
-    hi IncSearch        guifg=#6a6760 guibg=#dcd8da gui=none
+    hi IncSearch        guifg=#7a7760 guibg=#e7e5da gui=none
 "Cursor
     hi Cursor           guifg=#6a6760 guibg=#eeede5 gui=bold
     hi CursorIM         guifg=#6a6760 guibg=#dcd8da gui=bold
@@ -27,7 +27,7 @@ let colors_name = "silentash"
     hi StatusLine       guifg=#6a6760               gui=none
     hi StatusLineNC     guifg=#6a6760               gui=none
     hi VertSplit        guifg=#6a6760 guibg=#dcd8da gui=none
-    hi Folded           guifg=#6a6760 guibg=#dcd8da gui=none
+    hi Folded           guifg=#6a6760 guibg=#cfcacc gui=none
     "hi FoldedColumn     guifg=#000000 guibg=#ee9999 gui=none
     hi Visual                         guibg=#eeede5 gui=none
     hi Title            guifg=#6a6760               gui=none
@@ -65,13 +65,13 @@ let colors_name = "silentash"
     hi Identifier       guifg=#6a6a40 guibg=#d8d8d2 gui=none
     hi Function         guifg=#6a6a40 guibg=#d8d8d2 gui=none
 "*Statement
-    hi Statement        guifg=#305392 guibg=#d6d6da gui=none
-    hi Conditional      guifg=#305392 guibg=#d6d6da gui=none
-    hi Repeat           guifg=#305392 guibg=#d6d6da gui=none
-    hi Label            guifg=#305392 guibg=#d6d6da gui=none
+    hi Statement        guifg=#305392 guibg=#d8d8da gui=none
+    hi Conditional      guifg=#6a5330 guibg=#dcdad4 gui=none
+    hi Repeat           guifg=#6a5330 guibg=#dcdad4 gui=none
+    hi Label            guifg=#6a5330 guibg=#dcdad4 gui=none
     hi Operator         guifg=#035267 guibg=#d6dad6 gui=none
     hi Keyword          guifg=#035267 guibg=#d6dad6 gui=none
-    hi Exception        guifg=#305392 guibg=#d6d6da gui=none
+    hi Exception        guifg=#305392 guibg=#d8d8da gui=none
 "*PreProc
     hi PreProc          guifg=#6a6760 guibg=#dcd8da gui=none
     hi Include          guifg=#6a6760 guibg=#dcd8da gui=none
@@ -79,10 +79,10 @@ let colors_name = "silentash"
     hi Macro            guifg=#6a6760 guibg=#dcd8da gui=none
     hi PreCondit        guifg=#6a6760 guibg=#dcd8da gui=none
 "*Type
-    hi Type             guifg=#6a6760               gui=none
-    hi StorageClass     guifg=#6a6760               gui=none
-    hi Structure        guifg=#6a6760               gui=none
-    hi Typedef          guifg=#6a6760               gui=none
+    hi Type             guifg=#606e60 guibg=#d9dad9 gui=none
+    hi StorageClass     guifg=#606e60 guibg=#d9dad9 gui=none
+    hi Structure        guifg=#606e60 guibg=#d9dad9 gui=none
+    hi Typedef          guifg=#606e60 guibg=#d9dad9 gui=none
 "*Special
     hi Special          guifg=#6a6760               gui=none
     hi SpecialChar      guifg=#6a6760               gui=none
